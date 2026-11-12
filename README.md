@@ -10,7 +10,7 @@ The project transforms structured smartphone retail sales data into meaningful b
 
 # 📊 Dashboard Overview
 
-"C:\Users\user\OneDrive\Desktop\Screenshot 2026-11-11 000128.png"
+![Samsung Galaxy Retail Sales Dashboard](1000162667.jpg)
 
 The **Samsung Galaxy Retail Sales Performance Dashboard** provides an interactive overview of smartphone sales performance across three major Galaxy product series:
 
