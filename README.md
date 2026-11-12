@@ -10,8 +10,6 @@ The project transforms structured smartphone retail sales data into meaningful b
 
 # 📊 Dashboard Overview
 
-![Samsung Galaxy Retail Sales Dashboard](1000162667.jpg)
-
 The **Samsung Galaxy Retail Sales Performance Dashboard** provides an interactive overview of smartphone sales performance across three major Galaxy product series:
 
 - Galaxy A Series
@@ -26,7 +24,9 @@ Users can explore the dashboard through interactive filters for **Model, Year, a
 
 # 🖼️ Dashboard Preview
 
-![Samsung Galaxy Retail Sales Dashboard](1000162667.jpg)
+# 🖼️ Dashboard Preview
+
+![Samsung Galaxy Retail Sales Dashboard](./Samsung_Galaxy_Retail_Sales_Dashboard.jpg)
 
 The dashboard presents a consolidated view of Samsung Galaxy retail performance, featuring KPI cards, sales trends, 5G versus 4G comparisons, regional unit distribution, top-selling models, series-wise sales contribution, and revenue performance.
 
@@ -299,7 +299,7 @@ Samsung-Galaxy-Retail-Sales-Dashboard/
 │
 ├── README.md
 │
-├── Samsung Galaxy Retail Sales Dashboard.png
+├── Samsung_Galaxy_Retail_Sales_Dashboard.jpg
 │
 ├── Samsung_Galaxy_Retail_Sales_Dashboard.twbx
 │
