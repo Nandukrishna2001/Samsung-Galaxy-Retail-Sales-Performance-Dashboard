@@ -24,9 +24,7 @@ Users can explore the dashboard through interactive filters for **Model, Year, a
 
 # 🖼️ Dashboard Preview
 
-# 🖼️ Dashboard Preview
-
-![Samsung Galaxy Retail Sales Dashboard](./Samsung_Galaxy_Retail_Sales_Dashboard.jpg)
+![Samsung Galaxy Retail Sales Dashboard](Screenshot%202026-11-11%20000128.png)
 
 The dashboard presents a consolidated view of Samsung Galaxy retail performance, featuring KPI cards, sales trends, 5G versus 4G comparisons, regional unit distribution, top-selling models, series-wise sales contribution, and revenue performance.
 
@@ -299,7 +297,7 @@ Samsung-Galaxy-Retail-Sales-Dashboard/
 │
 ├── README.md
 │
-├── Samsung_Galaxy_Retail_Sales_Dashboard.jpg
+├── Screenshot 2026-11-11 000128.png
 │
 ├── Samsung_Galaxy_Retail_Sales_Dashboard.twbx
 │
